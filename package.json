@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-ui-pro-template-docs",
+  "name": "docs.hamrs.app",
   "private": true,
   "type": "module",
   "scripts": {
@@ -26,6 +26,5 @@
     "@nuxthq/studio": "^2.1.1",
     "eslint": "^9.13.0",
     "vue-tsc": "^2.1.6"
-  },
-  "packageManager": "pnpm@9.12.2"
+  }
 }
